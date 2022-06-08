@@ -1,4 +1,4 @@
-first rafts of uploads consists of these documents, with associated dates.
+Documents with associated dates:
 
 [Order Modifying OPHS Attachment A](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/8864500/Order.Modifying.OPHS.Attachment.A.pdf)
 22-Jan-2022
