@@ -1,5 +1,2 @@
-Here you can say lots of fun things about your site.
+These are documents related to the DEA scheduling of five tryptamines.
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
