@@ -83,3 +83,6 @@ Documents with associated dates:
 [Scheduling of_ PHR_fin](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/8864506/Scheduling.of_.PHR_fin.pdf)
 8-Jun-2022
 
+
+[2022.6.10 Panacea Plant Sciences Prehearing Statements.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/8881185/2022.6.10.Panacea.Plant.Sciences.Prehearing.Statements.pdf)
+10-Jun-2022
