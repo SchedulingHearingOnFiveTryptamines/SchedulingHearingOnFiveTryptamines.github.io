@@ -1,4 +1,4 @@
-On January 14th, 2022, the US government [proposed to make five tryptamine compounds illegal](https://www.federalregister.gov/documents/2022/01/14/2022-00713/schedules-of-controlled-substances-placement-of-4-hydroxy-nn). Mindstate Design Labs and Tactogen Inc, represented by Calyx Law and Ytter Coleman LLP, are working together to oppose this regulation and have requested a scheduling hearing. Tactogen's motivations are detailed [here](https://tactogen.com/news). This site serves a repository for documents generated during this process.
+On January 14th, 2022, the US government [proposed to make five tryptamine compounds illegal](https://www.federalregister.gov/documents/2022/01/14/2022-00713/schedules-of-controlled-substances-placement-of-4-hydroxy-nn). Mindstate Design Labs and Tactogen Inc, represented by Calyx Law and Ytter Coleman LLP, are working together to oppose this regulation and have requested a scheduling hearing. Tactogen's motivations are detailed [here](https://tactogen.com/news). This site serves as a repository for documents generated during this process.
 
 
 Documents with associated dates:
