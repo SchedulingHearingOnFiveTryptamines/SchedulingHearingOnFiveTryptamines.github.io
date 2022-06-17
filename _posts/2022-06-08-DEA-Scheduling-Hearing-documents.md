@@ -86,3 +86,8 @@ Documents with associated dates:
 
 [2022.6.10 Panacea Plant Sciences Prehearing Statements.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/8881185/2022.6.10.Panacea.Plant.Sciences.Prehearing.Statements.pdf)
 10-Jun-2022
+
+
+[DEA-2022-0001-0589_attachment_2 [field trip].pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/8928754/DEA-2022-0001-0589_attachment_2.field.trip.pdf)
+14-Feb-2022
+
