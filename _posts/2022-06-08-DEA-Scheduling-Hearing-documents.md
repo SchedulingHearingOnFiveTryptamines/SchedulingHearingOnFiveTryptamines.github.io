@@ -94,7 +94,7 @@ Documents with associated dates:
 [2022.6.21 Panacea Plant Sciences Motion to compel discovery  .pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/8952965/2022.6.21.Panacea.Plant.Sciences.Motion.to.compel.discovery.pdf)
 21-Jun-2022
 
-[DEA-2022-0001-0005_content.pdf] (https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9056059/DEA-2022-0001-0005_content.pdf)
+[DEA-2022-0001-0005_content.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9056059/DEA-2022-0001-0005_content.pdf)
 Aug-2021
 
 
