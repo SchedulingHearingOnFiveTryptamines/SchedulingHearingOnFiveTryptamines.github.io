@@ -3,6 +3,12 @@ On January 14th, 2022, the US government [proposed to make five tryptamine compo
 
 Documents with associated dates:
 
+[DEA-2022-0001-0007_HHS-FDA Report 05-2012.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9056089/DEA-2022-0001-0007_HHS-FDA.Report.05-2012.pdf)
+17-May-2012
+
+[DEA-2022-0001-0005_content.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9056059/DEA-2022-0001-0005_content.pdf)
+Aug-2021
+
 [Order Modifying OPHS Attachment A](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/8864500/Order.Modifying.OPHS.Attachment.A.pdf)
 22-Jan-2022
 
@@ -13,6 +19,9 @@ Documents with associated dates:
 11-Feb-2022
 
 [Order Modifying OPHS Attachment B](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/8864501/Order.Modifying.OPHS.Attachment.B.pdf)
+14-Feb-2022
+
+[DEA-2022-0001-0589_attachment_2 [field trip].pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/8928754/DEA-2022-0001-0589_attachment_2.field.trip.pdf)
 14-Feb-2022
 
 [Scheduling_Order Modifying OPHS_fin](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/8864517/Scheduling_Order.Modifying.OPHS_fin.pdf)
@@ -27,34 +36,26 @@ Documents with associated dates:
 [Scheduling_Briefing Order Regarding Summary Disposition](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/8864516/Scheduling_Briefing.Order.Regarding.Summary.Disposition.pdf)
 19-Apr-2022
 
-
 [Scheduling_Third Order Modifying OPHS](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/8864518/Scheduling_Third.Order.Modifying.OPHS.pdf)
 19-Apr-2022
-
 
 [Party's Opposition To The Government's Motion To Dismiss In Part (e).pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/8864504/Party.s.Opposition.To.The.Government.s.Motion.To.Dismiss.In.Part.e.pdf)
 20-Apr-2022
 
-
 [2022.4.22 Panacea Plant Sciences Motion For Summary Dismissal](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/8864496/2022.4.22.Panacea.Plant.Sciences.Motion.For.Summary.Dismissal.pdf)
 22-Apr-2022
-
 
 [Tryptamines - Govt. Mot. to Amend Prehearing Schedule (4.22.22)](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/8864519/Tryptamines.-.Govt.Mot.to.Amend.Prehearing.Schedule.4.22.22.pdf)
 22-Apr-2022
 
-
 [Tryptamines - Govt. Partial Withdrawal of Motion to Dismiss](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/8864520/Tryptamines.-.Govt.Partial.Withdrawal.of.Motion.to.Dismiss.pdf)
 22-Apr-2022
-
 
 [Scheduling of_Order Denying Government's Motion to Amend_fin](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/8864509/Scheduling.of_Order.Denying.Government.s.Motion.to.Amend_fin.pdf)
 27-Apr-2022
 
-
 [Scheduling of_Order Denying Protective Order_fin](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/8864512/Scheduling.of_Order.Denying.Protective.Order_fin.pdf)
 29-Apr-2022
-
 
 [Scheduling of_Procedural Order Regarding Document Page Limits_fin](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/8864514/Scheduling.of_Procedural.Order.Regarding.Document.Page.Limits_fin.pdf)
 3-May-2022
@@ -83,20 +84,8 @@ Documents with associated dates:
 [Scheduling of_ PHR_fin](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/8864506/Scheduling.of_.PHR_fin.pdf)
 8-Jun-2022
 
-
 [2022.6.10 Panacea Plant Sciences Prehearing Statements.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/8881185/2022.6.10.Panacea.Plant.Sciences.Prehearing.Statements.pdf)
 10-Jun-2022
 
-
-[DEA-2022-0001-0589_attachment_2 [field trip].pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/8928754/DEA-2022-0001-0589_attachment_2.field.trip.pdf)
-14-Feb-2022
-
 [2022.6.21 Panacea Plant Sciences Motion to compel discovery  .pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/8952965/2022.6.21.Panacea.Plant.Sciences.Motion.to.compel.discovery.pdf)
 21-Jun-2022
-
-[DEA-2022-0001-0005_content.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9056059/DEA-2022-0001-0005_content.pdf)
-Aug-2021
-
-
-[DEA-2022-0001-0007_HHS-FDA Report 05-2012.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9056089/DEA-2022-0001-0007_HHS-FDA.Report.05-2012.pdf)
-17-May-2012
