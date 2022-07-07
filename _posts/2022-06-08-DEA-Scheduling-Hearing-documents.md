@@ -36,23 +36,6 @@ Aug-2021
 [2022.3.30 Scheduling - Govt. Opp. to Mot. to Stay.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9067351/2022.3.30.Scheduling.-.Govt.Opp.to.Mot.to.Stay.pdf)
 30-Mar-2022
 
-
-4-Apr-2022
-
-
-6-Apr-2022
-
-
-6-Apr-2022
-
-
-6-Apr-2022
-
-
-18-Apr-2022
-
-
-
 [Scheduling of_Order Denying Interested Parties' Preliminary Objection and MOT for Stay](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/8864510/Scheduling.of_Order.Denying.Interested.Parties.Preliminary.Objection.and.MOT.for.Stay.pdf)
 19-Apr-2022
 
@@ -92,7 +75,6 @@ Aug-2021
 [2022.5.2 Tryptamines - Government Prehearing Statement (5.2.22).pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9057771/2022.5.2.Tryptamines.-.Government.Prehearing.Statement.5.2.22.pdf)
 2-May-2022
 
-
 [2022.5.2 Mindstate-Tactogen Opposition to MTD.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9067341/2022.5.2.Mindstate-Tactogen.Opposition.to.MTD.pdf)
 2-May-2022
 
@@ -100,18 +82,39 @@ Aug-2021
 3-May-2022
 
 [2022.5.6 Official Notice_Attachment A.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9067369/2022.5.6.Official.Notice_Attachment.A.pdf)
+6-May-2022
+
 [2022.5.6 Official Notice_Attachment B.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9067370/2022.5.6.Official.Notice_Attachment.B.pdf)
+6-May-2022
+
 [2022.5.6 Official Notice_Attachment C.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9067371/2022.5.6.Official.Notice_Attachment.C.pdf)
+6-May-2022
+
 [2022.5.6 Official Notice_Attachment D.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9067372/2022.5.6.Official.Notice_Attachment.D.pdf)
+6-May-2022
+
 [2022.5.6 Official Notice_Attachment E.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9067373/2022.5.6.Official.Notice_Attachment.E.pdf)
+6-May-2022
+
 [2022.5.6 Official Notice_Attachment F.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9067375/2022.5.6.Official.Notice_Attachment.F.pdf)
 6-May-2022
 
+[2022.5.6 Research Companies Supplement re Motion for Summary Disposition - FINAL.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9067395/2022.5.6.Research.Companies.Supplement.re.Motion.for.Summary.Disposition.-.FINAL.pdf)
+6-May-2022
+
+[2022.5.6 Scheduling of_Official Notice Order_fin.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9067397/2022.5.6.Scheduling.of_Official.Notice.Order_fin.pdf)
+6-May-2022
+
+[2022.5.6 Scheduling of_Order Granting in Part Gov't Mot to Dismiss_fin.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9067400/2022.5.6.Scheduling.of_Order.Granting.in.Part.Gov.t.Mot.to.Dismiss_fin.pdf)
+6-May-2022
 
 [2022.5.9 Tryptamines - Govt. Opp. to Mot. for Summary Disposition (5.9.22).pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9057759/2022.5.9.Tryptamines.-.Govt.Opp.to.Mot.for.Summary.Disposition.5.9.22.pdf)
 9-May-2022
 
 [Scheduling of_Order Rejecting Mindstate and Tactogen's Supplement_fin](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/8864513/Scheduling.of_Order.Rejecting.Mindstate.and.Tactogen.s.Supplement_fin.pdf)
+9-May-2022
+
+[2022.5.9 Research Companies Revised Supplement re Motion for Summary Disposition - FINAL.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9067403/2022.5.9.Research.Companies.Revised.Supplement.re.Motion.for.Summary.Disposition.-.FINAL.pdf)
 9-May-2022
 
 [Scheduling of_Briefing Order Regarding Interlocutory Appeal_fin](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/8864507/Scheduling.of_Briefing.Order.Regarding.Interlocutory.Appeal_fin.pdf)
@@ -165,7 +168,6 @@ Aug-2021
 [2022.6.13 Scheduling of_ Order Directing the Gov't to Publish Notice of Hearing_fin (e).pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9057695/2022.6.13.Scheduling.of_.Order.Directing.the.Gov.t.to.Publish.Notice.of.Hearing_fin.e.pdf)
 13-Jun-2022
 
-
 [2022.6.21 Panacea Plant Sciences Motion to compel discovery  .pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/8952965/2022.6.21.Panacea.Plant.Sciences.Motion.to.compel.discovery.pdf)
 21-Jun-2022
 
@@ -190,25 +192,21 @@ Aug-2021
 [2022.6.30 Tryptamines - Govt Notice re Announcement of Hearing (6.30.22) (with attachments).pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9057662/2022.6.30.Tryptamines.-.Govt.Notice.re.Announcement.of.Hearing.6.30.22.with.attachments.pdf)
 30-Jun-2022
 
-[2022.7.1 Ex. A Letter to Matthew C. Zorn, Esq. & Graham Pechenik, Esq.-30Jun2022.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9057658/2022.7.1.Ex.A.Letter.to.Matthew.C.Zorn.Esq.Graham.Pechenik.Esq.-30Jun2022.pdf)
-1-Jul-2022
-
 [2022.7.1 Notice of Field Trip Letter.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9057650/2022.7.1.Notice.of.Field.Trip.Letter.pdf)
 1-Jul-2022
 
+[2022.7.1 Ex. A Letter to Matthew C. Zorn, Esq. & Graham Pechenik, Esq.-30Jun2022.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9057658/2022.7.1.Ex.A.Letter.to.Matthew.C.Zorn.Esq.Graham.Pechenik.Esq.-30Jun2022.pdf)
+1-Jul-2022
 
 [2022.7.1 Ex. B Pages from GE 3 [FT Submission].pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9057654/2022.7.1.Ex.B.Pages.from.GE.3.FT.Submission.pdf)
 1-Jul-2022
 
-
 [2022.7.5 Scheduling of_ Order Scheduling On-the-Record Status Conference_fin.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9057630/2022.7.5.Scheduling.of_.Order.Scheduling.On-the-Record.Status.Conference_fin.pdf)
-5-Jul-2022
-
-[2022.7.5 Scheduling of_ Order Denying in Part Panacea Plant Sciences Motion for Delay in Filing Deadlines_fin.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9057641/2022.7.5.Scheduling.of_.Order.Denying.in.Part.Panacea.Plant.Sciences.Motion.for.Delay.in.Filing.Deadlines_fin.pdf)
 5-Jul-2022
 
 [2022.7.5 Panacea Plant Sciences Motion For Delay, INTERLOCULATORY APPEAL.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9057648/2022.7.5.Panacea.Plant.Sciences.Motion.For.Delay.INTERLOCULATORY.APPEAL.pdf)
 5-Jul-2022
 
-
+[2022.7.5 Scheduling of_ Order Denying in Part Panacea Plant Sciences Motion for Delay in Filing Deadlines_fin.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9057641/2022.7.5.Scheduling.of_.Order.Denying.in.Part.Panacea.Plant.Sciences.Motion.for.Delay.in.Filing.Deadlines_fin.pdf)
+5-Jul-2022
 
