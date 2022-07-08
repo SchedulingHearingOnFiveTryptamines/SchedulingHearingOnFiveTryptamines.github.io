@@ -3,6 +3,17 @@ On January 14th, 2022, the US government [proposed to make five tryptamine compo
 
 Documents with associated dates:
 
+[GE 12.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9075298/GE.12.pdf)
+[GE 11.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9075301/GE.11.pdf)
+[GE 10.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9075302/GE.10.pdf)
+[GE 9.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9075303/GE.9.pdf)
+[GE 8.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9075304/GE.8.pdf)
+[GE 7.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9075305/GE.7.pdf)
+[GE 6.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9075306/GE.6.pdf)
+[GE 5.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9075307/GE.5.pdf)
+[GE 4.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9075309/GE.4.pdf)
+
+
 [DEA-2022-0001-0007_HHS-FDA Report 05-2012.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9056089/DEA-2022-0001-0007_HHS-FDA.Report.05-2012.pdf)
 17-May-2012
 
