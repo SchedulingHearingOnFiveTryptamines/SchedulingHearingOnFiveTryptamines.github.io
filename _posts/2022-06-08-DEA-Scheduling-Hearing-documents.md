@@ -281,3 +281,6 @@ Aug-2021
 
 [Dr. Halberstadt_ FINAL - signed.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9220935/Dr.Halberstadt_.FINAL.-.signed.pdf)
 19-Jul-2022
+
+[2022.7.22 Gov't Notice and Resp. to Panacea's Mot. for Injunction.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9221211/2022.7.22.Gov.t.Notice.and.Resp.to.Panacea.s.Mot.for.Injunction.pdf)
+22-Jul-2022
