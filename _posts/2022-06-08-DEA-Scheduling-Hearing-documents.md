@@ -1,8 +1,9 @@
-On January 14th, 2022, the US government [proposed to make five tryptamine compounds illegal](https://www.federalregister.gov/documents/2022/01/14/2022-00713/schedules-of-controlled-substances-placement-of-4-hydroxy-nn). Mindstate Design Labs and Tactogen Inc, represented by Calyx Law and Ytter Coleman LLP, are working together to oppose this regulation and have requested a scheduling hearing. Tactogen's motivations are detailed [here](https://tactogen.com/news). This site serves as a repository for documents generated during this process.
+On January 14th, 2022, the US government [proposed to make five tryptamine compounds illegal](https://www.federalregister.gov/documents/2022/01/14/2022-00713/schedules-of-controlled-substances-placement-of-4-hydroxy-nn). Mindstate Design Labs and Tactogen Inc, represented by Calyx Law and Yetter Coleman LLP, worked together to oppose this regulation and requested a scheduling hearing. Tactogen's motivations were detailed [here](https://tactogen.com/news). A hearing was scheduled and we began to prepare for us. Facing this opposition, the government has withdrawn its proposal and now plans to reassess the need to ban the five tryptamines. This site serves as a repository for documents generated during the process.
 
 
 Documents with associated dates:
 
+Government Exhibits:
 [GE 12.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9075298/GE.12.pdf)
 [GE 11.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9075301/GE.11.pdf)
 [GE 10.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9075302/GE.10.pdf)
@@ -12,7 +13,13 @@ Documents with associated dates:
 [GE 6.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9075306/GE.6.pdf)
 [GE 5.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9075307/GE.5.pdf)
 [GE 4.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9075309/GE.4.pdf)
-
+[GE 3 part1.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9221098/GE.3.part1.pdf)
+[GE 3 part2.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9221095/GE.3.part2.pdf)
+[GE 3 part3.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9221094/GE.3.part3.pdf)
+[GE 3 part4.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9221092/GE.3.part4.pdf)
+[GE 3 part5.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9221091/GE.3.part5.pdf)
+[GE 3 part6.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9221087/GE.3.part6.pdf)
+Various dates, 2007-2022
 
 [DEA-2022-0001-0007_HHS-FDA Report 05-2012.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9056089/DEA-2022-0001-0007_HHS-FDA.Report.05-2012.pdf)
 17-May-2012
@@ -221,3 +228,28 @@ Aug-2021
 [2022.7.5 Scheduling of_ Order Denying in Part Panacea Plant Sciences Motion for Delay in Filing Deadlines_fin.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9057641/2022.7.5.Scheduling.of_.Order.Denying.in.Part.Panacea.Plant.Sciences.Motion.for.Delay.in.Filing.Deadlines_fin.pdf)
 5-Jul-2022
 
+[Scheduling of_ Order Granting in Part Tactogen's Motion for Short Extension_fin.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9220887/Scheduling.of_.Order.Granting.in.Part.Tactogen.s.Motion.for.Short.Extension_fin.pdf)
+7-Jul-2022
+
+[2022.7.14 Nutt Statement.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9220873/2022.7.14.Nutt.Statement.pdf)
+[2022.7.14 pennington statement.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9220874/2022.7.14.pennington.statement.pdf)
+[2022.7.14_DiNardo_Statement.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9220875/2022.7.14_DiNardo_Statement.pdf)
+14-Jul-2022
+
+[2022.7.15 Chadeayne statement.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9220876/2022.7.15.Chadeayne.statement.pdf)
+[2022.7.15 Docket No. 22-15 - LAAverill Statement.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9220877/2022.7.15.Docket.No.22-15.-.LAAverill.Statement.pdf)
+[2022.7.15 Notice re Direct statements.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9220878/2022.7.15.Notice.re.Direct.statements.pdf)
+[2022.7.15 Notice of Filing of Testimony.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9220836/2022.7.15.Notice.of.Filing.of.Testimony.pdf)
+[2022.7.15 Notice re Panacea Plant Sciences Direct statements.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9220838/2022.7.15.Notice.re.Panacea.Plant.Sciences.Direct.statements.pdf)
+[2022.7.15 Wallach Direct Examination FINAL - signed.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9220839/2022.7.15.Wallach.Direct.Examination.FINAL.-.signed.pdf)
+[071522 Panacea Plant Sciences Daniel Riddle Written Direct Statement in the matter of the 5 tryptamines.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9220840/071522.Panacea.Plant.Sciences.Daniel.Riddle.Written.Direct.Statement.in.the.matter.of.the.5.tryptamines.pdf)
+[071522 Panacea Plant Sciences David Heldreth Written Direct Statement in the matter of the 5 tryptamines.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9220841/071522.Panacea.Plant.Sciences.David.Heldreth.Written.Direct.Statement.in.the.matter.of.the.5.tryptamines.pdf)
+[Denomme Direct Examination -FINAL - signed.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9220867/Denomme.Direct.Examination.-FINAL.-.signed.pdf)
+[Morris Direct Examination FINAL - signed.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9220868/Morris.Direct.Examination.FINAL.-.signed.pdf)
+15-Jul-2022
+
+[07.19.2022 PANACEA PLANT SCIENCES Written Direct Testimony of Michael Coyle.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9220932/07.19.2022.PANACEA.PLANT.SCIENCES.Written.Direct.Testimony.of.Michael.Coyle.pdf)
+[Becker - DIPT Testimony 2.0 FINAL - signed.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9220933/Becker.-.DIPT.Testimony.2.0.FINAL.-.signed.pdf)
+[Halberstadt Testimony Letter - signed.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9220934/Halberstadt.Testimony.Letter.-.signed.pdf)
+[Dr. Halberstadt_ FINAL - signed.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9220935/Dr.Halberstadt_.FINAL.-.signed.pdf)
+19-Jul-2022
