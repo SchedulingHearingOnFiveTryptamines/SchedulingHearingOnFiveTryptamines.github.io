@@ -232,24 +232,52 @@ Aug-2021
 7-Jul-2022
 
 [2022.7.14 Nutt Statement.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9220873/2022.7.14.Nutt.Statement.pdf)
+14-Jul-2022
+
 [2022.7.14 pennington statement.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9220874/2022.7.14.pennington.statement.pdf)
+14-Jul-2022
+
 [2022.7.14_DiNardo_Statement.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9220875/2022.7.14_DiNardo_Statement.pdf)
 14-Jul-2022
 
 [2022.7.15 Chadeayne statement.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9220876/2022.7.15.Chadeayne.statement.pdf)
+15-Jul-2022
+
 [2022.7.15 Docket No. 22-15 - LAAverill Statement.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9220877/2022.7.15.Docket.No.22-15.-.LAAverill.Statement.pdf)
+15-Jul-2022
+
 [2022.7.15 Notice re Direct statements.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9220878/2022.7.15.Notice.re.Direct.statements.pdf)
+15-Jul-2022
+
 [2022.7.15 Notice of Filing of Testimony.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9220836/2022.7.15.Notice.of.Filing.of.Testimony.pdf)
+15-Jul-2022
+
 [2022.7.15 Notice re Panacea Plant Sciences Direct statements.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9220838/2022.7.15.Notice.re.Panacea.Plant.Sciences.Direct.statements.pdf)
+15-Jul-2022
+
 [2022.7.15 Wallach Direct Examination FINAL - signed.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9220839/2022.7.15.Wallach.Direct.Examination.FINAL.-.signed.pdf)
+15-Jul-2022
+
 [071522 Panacea Plant Sciences Daniel Riddle Written Direct Statement in the matter of the 5 tryptamines.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9220840/071522.Panacea.Plant.Sciences.Daniel.Riddle.Written.Direct.Statement.in.the.matter.of.the.5.tryptamines.pdf)
+15-Jul-2022
+
 [071522 Panacea Plant Sciences David Heldreth Written Direct Statement in the matter of the 5 tryptamines.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9220841/071522.Panacea.Plant.Sciences.David.Heldreth.Written.Direct.Statement.in.the.matter.of.the.5.tryptamines.pdf)
+15-Jul-2022
+
 [Denomme Direct Examination -FINAL - signed.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9220867/Denomme.Direct.Examination.-FINAL.-.signed.pdf)
+15-Jul-2022
+
 [Morris Direct Examination FINAL - signed.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9220868/Morris.Direct.Examination.FINAL.-.signed.pdf)
 15-Jul-2022
 
 [07.19.2022 PANACEA PLANT SCIENCES Written Direct Testimony of Michael Coyle.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9220932/07.19.2022.PANACEA.PLANT.SCIENCES.Written.Direct.Testimony.of.Michael.Coyle.pdf)
+19-Jul-2022
+
 [Becker - DIPT Testimony 2.0 FINAL - signed.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9220933/Becker.-.DIPT.Testimony.2.0.FINAL.-.signed.pdf)
+19-Jul-2022
+
 [Halberstadt Testimony Letter - signed.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9220934/Halberstadt.Testimony.Letter.-.signed.pdf)
+19-Jul-2022
+
 [Dr. Halberstadt_ FINAL - signed.pdf](https://github.com/SchedulingHearingOnFiveTryptamines/SchedulingHearingOnFiveTryptamines.github.io/files/9220935/Dr.Halberstadt_.FINAL.-.signed.pdf)
 19-Jul-2022
